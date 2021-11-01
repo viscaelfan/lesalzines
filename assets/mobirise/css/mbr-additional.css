@@ -714,9 +714,6 @@ a {
 .cid-sNxmKO52Qa img,
 .cid-sNxmKO52Qa .item-img {
   width: 100%;
-  height: 100%;
-  height: 500px;
-  object-fit: cover;
 }
 .cid-sNxmKO52Qa .item:focus,
 .cid-sNxmKO52Qa span:focus {
